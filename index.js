@@ -19,10 +19,10 @@ client.on('ready', async () => {
     .setType('STREAMING')
     .setState('vOXLET - Best Bot')
     .setName('.gg/Uj86PMEcWj')
-    .setDetails('I am SIGMA!')
+    .setDetails('i am SIGMA!')
     .setStartTimestamp(Date.now())
     .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1281026224604581909/ec72b11633494d4df0c8770febcfd22d.png?size=2048')
-    .setAssetsLargeText('vOXLET')
+    .setAssetsLargeText('.gg/Uj86PMEcWj')
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" });
 })
